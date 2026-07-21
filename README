@@ -1,0 +1,18 @@
+# Smart Task Manager 📝
+
+## Description
+A command-line application for productivity management that implements local data persistence using JSON.
+
+## Key Features
+- **Data Persistence:** Tasks are saved locally in a JSON file, ensuring data is not lost between sessions.
+- **OOP Design:** Logical separation between the data management layer and the user interface.
+- **Complexity:** Time complexity O(1) for adding tasks and O(n) for listing.
+
+## Tech Stack
+- Python 3.x
+- JSON Module
+- OS Module
+
+## How to Run
+1. Clone the repository: `git clone https://github.com/fergodoii94/smart-task-manager.git`
+2. Run the app: `python main.py`
